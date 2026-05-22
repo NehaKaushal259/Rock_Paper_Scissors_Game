@@ -23,9 +23,9 @@ The program offers a way to play a game of Rock Paper Scissors against the compu
 
 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-🖥️ Tkinter GUI
-🎲 Random Module
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)  |  
+🖥️ Tkinter GUI  |  
+🎲 Random Module 
 
 
 ✨ Screenshots
@@ -43,6 +43,7 @@ The program offers a way to play a game of Rock Paper Scissors against the compu
 
 📂 Folder Structure
 
+``` text
 Rock-Paper-Scissors/
 │
 ├── Rock Paper Scissor Game.py
@@ -54,6 +55,7 @@ Rock-Paper-Scissors/
 ├── Images
 │
 └── README.md
+```
 
 
 🎯 Project Objective
