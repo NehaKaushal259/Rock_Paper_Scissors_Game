@@ -23,7 +23,9 @@ The program offers a way to play a game of Rock Paper Scissors against the compu
 
 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)  /  🖥️ Tkinter GUI  /  🎲 Random Module 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Tkinter](https://img.shields.io/badge/Tkinter_GUI-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Random](https://img.shields.io/badge/Random_Module-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 
 
 ✨ Screenshots
