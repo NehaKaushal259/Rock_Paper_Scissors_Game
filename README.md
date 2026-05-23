@@ -8,7 +8,7 @@ The program offers a way to play a game of Rock Paper Scissors against the compu
 
 
 
-🚀 Features
+# 🚀 Features
 ``` text
 🎮 Interactive GUI Interface
 🤖 Computer Random Choice Logic
@@ -21,14 +21,14 @@ The program offers a way to play a game of Rock Paper Scissors against the compu
 🧩 Structured and Readable Python Code
 ```
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Tkinter](https://img.shields.io/badge/Tkinter_GUI-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Random](https://img.shields.io/badge/Random_Module-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 
 
-✨ Screenshots
+# ✨ Screenshots
 
 <p align="center">
 <img src="./Images/image1.png" width="45%">
@@ -41,7 +41,7 @@ The program offers a way to play a game of Rock Paper Scissors against the compu
 </p>
 
 
-📂 Folder Structure
+# 📂 Folder Structure
 
 ``` text
 Rock-Paper-Scissors/
@@ -58,7 +58,7 @@ Rock-Paper-Scissors/
 ```
 
 
-🎯 Project Objective
+# 🎯 Project Objective
 
 The core purpose of this project is to enhance the proficiency in Python programming language and GUI programming through the creation of an application that can be used in actual play.
 
